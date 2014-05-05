@@ -1,0 +1,2 @@
+<!-- replace_contents '#logo' -->
+<%= link_to image_tag(image_path('logo.png')), spree.root_path %>
